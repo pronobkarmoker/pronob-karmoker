@@ -7,14 +7,14 @@ function Projects() {
       description: "A comprehensive dental clinic management system with patient tracking, appointment scheduling, and treatment planning features.",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/pronobkarmoker/SmileTrack-A-Smart-Dental-Clinic-Management-System",
-      live: "https://smiletrack-demo.netlify.app"
+      live: "https://smile-track-a-smart-dental-clinic-management-system.vercel.app/"
     },
     {
       title: "Digital Clock",
       description: "A modern digital clock application with additional features like timezone support and alarms.",
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/pronobkarmoker/Digital-Clock",
-      live: "https://digital-clock-demo.netlify.app"
+      live: "https://digital-clock-alpha-five.vercel.app/"
     },
     {
       title: "Data Classification System",
