@@ -1,4 +1,3 @@
-import React from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 
 function Projects() {
@@ -20,8 +19,8 @@ function Projects() {
     {
       title: "Data Classification System",
       description: "Implementation of Decision Tree and Random Forest algorithms for data classification based on three different criteria.",
-      technologies: ["Python", "Scikit-learn", "Pandas", "NumPy"],
-      github: "https://github.com/pronobkarmoker/Classification-of-Data-Using-Decision-Tree-and-Random-Forest-Based-on-Three-Different-Criteria",
+      technologies: ["c++", "Machine Learning"],
+      github: "https://github.com/pronobkarmoker/SPL-1",
       live: "#"
     }
   ];

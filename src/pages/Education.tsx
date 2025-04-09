@@ -1,4 +1,3 @@
-import React from 'react';
 import { GraduationCap, Book } from 'lucide-react';
 
 function Education() {

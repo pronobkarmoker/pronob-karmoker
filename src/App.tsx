@@ -70,7 +70,7 @@ function App() {
         {/* Footer */}
         <footer className="bg-gray-900 py-8 mt-auto">
           <div className="container mx-auto px-4 text-center text-gray-400">
-            <p>© 2024 Pronob Karmoker. All rights reserved.</p>
+            <p>© 2025 Pronob Karmoker. All rights reserved.</p>
           </div>
         </footer>
       </div>

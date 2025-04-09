@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Linkedin, Mail } from 'lucide-react';
 
 function Home() {
@@ -8,7 +7,7 @@ function Home() {
       <div className="container mx-auto px-4 py-16 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <img 
-            src="https://media.licdn.com/dms/image/D5603AQGvOPVFpgVxQw/profile-displayphoto-shrink_800_800/0/1697644660942?e=1715212800&v=beta&t=Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs" 
+            src="https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/481276607_2043319896174682_917476293767354069_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFtkbWMRL0Lv7Pgipf1jRqn0p7d6KjCdNLSnt3oqMJ00jvYEELzGg57AmP5FvwaqNwNw__IGUqKmJQFlC7_9gPv&_nc_ohc=nvMKKry6LNcQ7kNvwHivbIs&_nc_oc=Adk6YO_Jp-Evk352250Z-puTTnnY7K_naLxxw71RL56eVNrmq_wBAjXockmE4RmYCLw&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=ZXn2N9XMi3ZoRN_PzH4KJg&oh=00_AfGFM6jLttJLI8l_uN5NfaBIM8b2NEO7EfOUss_MQ33gfw&oe=67FBD977" 
             alt="Pronob Karmoker" 
             className="w-32 h-32 rounded-full mx-auto mb-8 border-4 border-blue-500"
           />

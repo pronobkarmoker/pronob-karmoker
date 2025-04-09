@@ -1,4 +1,3 @@
-import React from 'react';
 
 function About() {
   return (
@@ -42,7 +41,7 @@ function About() {
                 <ul className="list-disc list-inside text-gray-300">
                   <li>MongoDB</li>
                   <li>MySQL</li>
-                  <li>PostgreSQL</li>
+                  
                 </ul>
               </div>
               <div>
